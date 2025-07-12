@@ -33,8 +33,7 @@ Time Complexity: O(n) (ek hi loop).
 Space Complexity: O(n) (dictionary mein numbers store karte hain).
 
 Example Se Samjho
-nums = [3, 2, 4]
-target = 6
+
 nums = [3, 2, 4]
 target = 6
  Chalao hash map wala code:
